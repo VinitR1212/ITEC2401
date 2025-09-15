@@ -1,5 +1,3 @@
-from symbol import continue_stmt
-
 print('Hello A1!\n')
 print('Made by Vinit Rao Fall 2025\n')
 def get_first_name():
